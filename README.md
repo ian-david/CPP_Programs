@@ -1,1 +1,1 @@
-# This are bunch of console applications made using C++.
+# These are bunch of console applications made using C++.
